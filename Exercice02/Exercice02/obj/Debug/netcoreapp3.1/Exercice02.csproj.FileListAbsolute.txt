@@ -1,0 +1,13 @@
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Mod3\Exercice02\Exercice02\bin\Debug\netcoreapp3.1\Exercice02.exe
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Mod3\Exercice02\Exercice02\bin\Debug\netcoreapp3.1\Exercice02.deps.json
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Mod3\Exercice02\Exercice02\bin\Debug\netcoreapp3.1\Exercice02.runtimeconfig.json
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Mod3\Exercice02\Exercice02\bin\Debug\netcoreapp3.1\Exercice02.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Mod3\Exercice02\Exercice02\bin\Debug\netcoreapp3.1\Exercice02.dll
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Mod3\Exercice02\Exercice02\bin\Debug\netcoreapp3.1\Exercice02.pdb
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Mod3\Exercice02\Exercice02\obj\Debug\netcoreapp3.1\Exercice02.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Mod3\Exercice02\Exercice02\obj\Debug\netcoreapp3.1\Exercice02.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Mod3\Exercice02\Exercice02\obj\Debug\netcoreapp3.1\Exercice02.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Mod3\Exercice02\Exercice02\obj\Debug\netcoreapp3.1\Exercice02.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Mod3\Exercice02\Exercice02\obj\Debug\netcoreapp3.1\Exercice02.dll
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Mod3\Exercice02\Exercice02\obj\Debug\netcoreapp3.1\Exercice02.pdb
+C:\Users\lucas\Desktop\Lucas\Cursos\Udemy\C#\Mod3\Exercice02\Exercice02\obj\Debug\netcoreapp3.1\Exercice02.genruntimeconfig.cache
